@@ -25,11 +25,11 @@ const data = [
     value: <Age />,
   },
   {
-    key: 'countries',
-    label: 'Countries visited',
-    value: 53,
+    key: 'nationalparks',
+    label: 'National Parks visited',
+    value: 6,
     link:
-      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+      'https://www.google.com/maps/d/u/0/edit?mid=1mrlQTz9bPeRgvGUbCSyrhmzlqU7hm5I&usp=sharing',
   },
   {
     key: 'location',
